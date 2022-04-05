@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: coral;
+    margin: 1rem 0;
+    margin-bottom: 2rem;
+}
+
+body {
+    color: white;
+    padding: 2rem;
+}
